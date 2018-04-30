@@ -1,0 +1,24 @@
+{
+  "name": "@crystallize/gtm-tracking",
+  "version": "0.0.0",
+  "description":
+    "Helpers for tracking in GTM using standard Crystallize models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowballdigital/crystallize-gtm-tracking.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowballdigital/crystallize-gtm-tracking/issues"
+  },
+  "homepage":
+    "https://github.com/snowballdigital/crystallize-gtm-tracking#readme",
+  "prettier": {
+    "singleQuote": true
+  }
+}
