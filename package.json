@@ -1,8 +1,7 @@
 {
   "name": "@crystallize/gtm-tracking",
-  "version": "0.0.0",
-  "description":
-    "Helpers for tracking in GTM using standard Crystallize models",
+  "version": "0.1.0",
+  "description": "Helpers for tracking in GTM using standard Crystallize models",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +15,7 @@
   "bugs": {
     "url": "https://github.com/snowballdigital/crystallize-gtm-tracking/issues"
   },
-  "homepage":
-    "https://github.com/snowballdigital/crystallize-gtm-tracking#readme",
+  "homepage": "https://github.com/snowballdigital/crystallize-gtm-tracking#readme",
   "prettier": {
     "singleQuote": true
   }
