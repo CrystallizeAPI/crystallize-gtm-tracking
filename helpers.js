@@ -8,7 +8,7 @@ function getCurrencyCode(newCode) {
   return currencyCode;
 }
 
-function getValidationErrors(object, argsString) {
+function getValidationErrors(object = {}, argsString) {
   return argsString.split(' ').reduce((acc, key) => {
     if (typeof object[key] === 'undefined') {
       /* eslint-disable */
