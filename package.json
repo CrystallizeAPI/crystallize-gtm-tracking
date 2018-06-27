@@ -1,6 +1,6 @@
 {
   "name": "@crystallize/gtm-tracking",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Helpers for tracking in GTM using standard Crystallize models",
   "main": "index.js",
   "scripts": {

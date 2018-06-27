@@ -1,3 +1,11 @@
+<a name="0.2.0"></a>
+## 0.2.0 (2018-06-27)
+
+* Added changelog ([2352721](https://github.com/snowballdigital/crystallize-gtm-tracking/commit/2352721))
+* Enable validation error check for null ([6ae014e](https://github.com/snowballdigital/crystallize-gtm-tracking/commit/6ae014e))
+
+
+
 <a name="0.1.0"></a>
 ## 0.1.0 (2018-04-30)
 
