@@ -1,3 +1,10 @@
+<a name="0.3.0"></a>
+## 0.3.0 (2018-07-11)
+
+* Babel transpiling ([84e948b](https://github.com/snowballdigital/crystallize-gtm-tracking/commit/84e948b))
+
+
+
 <a name="0.2.0"></a>
 ## 0.2.0 (2018-06-27)
 
