@@ -1,3 +1,9 @@
+## 1.0.0 (2018-09-28)
+
+* Added logo ([21140e7](https://github.com/snowballdigital/crystallize-gtm-tracking/commit/21140e7))
+
+
+
 <a name="0.3.0"></a>
 ## 0.3.0 (2018-07-11)
 
