@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowballdigital/crystallize-gtm-tracking.git"
+    "url": "git@github.com:CrystallizeAPI/crystallize-gtm-tracking.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snowballdigital/crystallize-gtm-tracking/issues"
+    "url": "https://github.com/CrystallizeAPI/crystallize-gtm-tracking/issues"
   },
-  "homepage": "https://github.com/snowballdigital/crystallize-gtm-tracking#readme",
+  "homepage": "https://github.com/CrystallizeAPI/crystallize-gtm-tracking#readme",
   "prettier": {
     "singleQuote": true
   },

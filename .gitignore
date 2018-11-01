@@ -59,3 +59,6 @@ typings/
 
 # Dist
 dist
+
+# NPM package lock
+package-lock.json
