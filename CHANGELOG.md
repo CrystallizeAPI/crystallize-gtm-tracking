@@ -1,3 +1,9 @@
+## 1.1.0 (2018-11-01)
+
+* New git url ([8261cd8](https://github.com/CrystallizeAPI/crystallize-gtm-tracking/commit/8261cd8))
+
+
+
 ## 1.0.0 (2018-09-28)
 
 * Added logo ([21140e7](https://github.com/snowballdigital/crystallize-gtm-tracking/commit/21140e7))
