@@ -8,6 +8,12 @@ Ensure to setup one custom event listener in GTM for the following entries:
 
 - ecommerce (be sure to enable enhanced ecommerce)
 
+## Install
+
+```
+yarn add @crystallize/gtm-tracking
+```
+
 ## Usage
 
 ```
