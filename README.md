@@ -2,7 +2,7 @@
 
 # crystallize-gtm-tracking
 
-Helpers for tracking in GTM using standard Crystallize models
+Helpers for tracking in GTM using standard Crystallize models. Makes it easy to add Google Tag Manager to your React ecommerce powered by [Crystallize headless commerce service](https://crystallize.com/developers).
 
 Ensure to setup one custom event listener in GTM for the following entries:
 
