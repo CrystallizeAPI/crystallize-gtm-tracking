@@ -1,3 +1,10 @@
+## 1.2.0 (2018-12-05)
+
+* Install instructions in readme ([de9684c](https://github.com/CrystallizeAPI/crystallize-gtm-tracking/commit/de9684c))
+* Update README.md ([1a1bb59](https://github.com/CrystallizeAPI/crystallize-gtm-tracking/commit/1a1bb59))
+
+
+
 ## 1.1.0 (2018-11-01)
 
 * New git url ([8261cd8](https://github.com/CrystallizeAPI/crystallize-gtm-tracking/commit/8261cd8))
